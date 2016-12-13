@@ -1,6 +1,6 @@
 # Portal
 
-**TODO: Add description**
+This repository was used for me to do this elixir tutorial: https://howistart.org/posts/elixir/1
 
 ## Installation
 
